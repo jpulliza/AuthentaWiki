@@ -1,10 +1,10 @@
 # AuthentaWiki/Wiki-Reliable 
 ###### We're not sure about the name yet
 
-
 Purpose: To build a Chrome Extension to analyze the reliability of wiki articles.
 
-## Project Milestones:
+
+### Project Milestones:
 1. Proof of life  
   a. extension pulls any data from wikipedia  
   b. pulls any editing data  
@@ -18,17 +18,17 @@ Purpose: To build a Chrome Extension to analyze the reliability of wiki articles
 4. Portability  
   a. mediawiki compatible  
  
-## Technology Used:
+### Technology Used:
 - [Chrome Extention](http://developer.chrome.com/extensions/index.html)
 - [Chrome API](http://developer.chrome.com/extensions/api_index.html)
 - JavaScript
 - Potentially [WikiTrust API](http://www.wikitrust.net/vandalism-api)
 
-## Stakeholders:
+### Stakeholders:
 - Chrome users of Wikipedia
 - Developers interested in pulling data from Wikipedia or other MediaWiki's.
 
-## Related Projects:
+### Related Projects:
 - [WikiTrust](http://www.wikitrust.net/)
 - [Wiki-Watch](http://en.wiki-watch.de/)
 - [Wikibu](http://www.wikibu.ch/)
