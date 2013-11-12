@@ -6,21 +6,17 @@ Purpose: To build a Chrome Extension to analyze the reliability of wiki articles
 
 ## Project Milestones:
 1. Proof of life  
-
-- [ ] extension pulls any data from wikipedia  
-- [ ] pulls any editing data  
-- [ ] pull all relevent editing data  
+  a. extension pulls any data from wikipedia  
+  b. pulls any editing data  
+  c. pull all relevent editing data  
 2. Proof of concept  
-
- - [ ] formats data  
- - [ ] calculates an index  
+  a. formats data  
+  b. calculates an index  
 3. Optimization  
-
- - [ ] optimize reliability index  
- - [ ] visualize reliability on page  
+  a. optimize reliability index  
+  b. visualize reliability on page  
 4. Portability  
-
- - [ ] mediawiki compatible  
+  a. mediawiki compatible  
  
 ## Technology Used:
 - [Chrome Extention](http://developer.chrome.com/extensions/index.html)
