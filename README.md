@@ -1,7 +1,7 @@
 # AuthentaWiki/Wiki-Reliable 
 ###### We're not sure about the name yet
 
-Purpose: To build a Chrome Extension to analyze the reliability of wiki articles.
+The goal of the AuthetaWiki/Wiki-reliable project is to make evaluating the reliability of a wikipedia article effortless. We intend to develop a Chrome Extension which analyzes and displays reliability indexes for a given article to the user.
 
 
 ### Project Milestones:
