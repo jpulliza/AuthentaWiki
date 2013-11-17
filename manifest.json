@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "One-click Kittens",
-  "description": "This extension demonstrates a 'browser action' with kittens.",
+  "name": "AuthentaWiki",
+  "description": "Gathering Key Information on Wikipedia Articles",
   "version": "1.0",
 
   "browser_action": {
@@ -10,6 +10,7 @@
     "default_popup": "popup.html"
   },
   "permissions": [
-    "https://secure.flickr.com/"
+    "tabs",
+	"activeTab"
   ]
 }
